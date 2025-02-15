@@ -334,8 +334,12 @@ header {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 20px;
+  position: relative;
 }
 
+.services_card_img img {
+  width: 100%;
+}
 .services_card_w {
   background: rgb(234, 226, 208);
   border-radius: 20px;
@@ -651,4 +655,173 @@ footer p {
 
 .footer_menu p:hover {
   text-decoration: underline;
+}
+
+@media only screen and (max-width: 1280px) {
+  .container {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .wrapper {
+    overflow: hidden;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  nav {
+    padding: 10px 0;
+  }
+  .container {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+  .nav_logo p {
+    font-size: 20px;
+  }
+  .nav_wrapper .nav_menu {
+    display: none;
+  }
+  nav .main_btn {
+    height: 35px;
+    padding: 0 10px;
+    font-size: 15px;
+    line-height: 100%;
+  }
+  .header_title h1 {
+    font-size: 30px;
+    line-height: 130%;
+  }
+  .header_title {
+    margin-top: 20px;
+  }
+  .header_title p {
+    font-size: 18px;
+  }
+  .header_cards {
+    display: flex;
+    flex-direction: column;
+  }
+  .header_card {
+    padding: 15px;
+    border-radius: 15px;
+    height: 240px;
+  }
+  header {
+    padding: 30px 10px 50px;
+  }
+  .banner h3 {
+    font-size: 25px;
+    line-height: 130%;
+  }
+  .banner {
+    padding: 20px;
+    margin-bottom: 40px;
+  }
+  .prices {
+    padding-top: 20px;
+    padding-bottom: 50px;
+  }
+  .block_title h3 {
+    font-size: 25px;
+    line-height: 130%;
+  }
+  .block_title p {
+    line-height: 130%;
+    font-size: 17px;
+  }
+  .block_title {
+    margin-bottom: 30px;
+  }
+  .lang_cards {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 14px;
+  }
+  .lang_card_price img {
+    width: 50px;
+    object-fit: cover;
+  }
+  .lang_card h5 {
+    margin: 14px 0;
+  }
+  .services,
+  .advantages {
+    padding: 40px 10px;
+  }
+  .services_cards {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 20px;
+    position: relative;
+  }
+  .advantages .block_title {
+    margin-bottom: 70px;
+  }
+  .adv_cards {
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    gap: 40px;
+    position: relative;
+  }
+  .adv_card {
+    padding: 35px 18px;
+  }
+  .reviews {
+    padding-top: 40px;
+  }
+  .swiper-slide {
+    padding: 20px;
+    height: auto;
+  }
+  .swiper-button-next,
+  .swiper-button-prev {
+    display: none !important;
+  }
+  .order_block {
+    margin: 40px auto;
+    flex-direction: column;
+    height: auto;
+    padding: 30px 10px;
+  }
+  .order_desc h3 {
+    font-size: 28px;
+    line-height: 130%;
+  }
+  .order_desc p {
+    font-size: 17px;
+    margin-bottom: 30px;
+  }
+  .form {
+    padding: 18px;
+  }
+  .form .main_btn {
+    width: 100%;
+  }
+  .footer_wrapper {
+    flex-direction: column;
+    gap: 30px;
+  }
+  .footer_menu {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .footer_menu div {
+    gap: 15px;
+  }
+  br {
+    display: none;
+  }
+  .slide_top p {
+    font-size: 15px;
+    line-height: 130%;
+    margin-top: 20px;
+    margin-bottom: 30px;
+  }
+  .slide_top img {
+    width: 20px;
+  }
+  .swiper-slide {
+    height: auto !important;
+  }
 }
