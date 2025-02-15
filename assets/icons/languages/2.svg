@@ -1,0 +1,17 @@
+<svg width="100.000000" height="100.000000" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_1147">
+			<rect id="State=kazakhstan" rx="0.000000" width="99.000000" height="99.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="State=kazakhstan" rx="0.000000" width="99.000000" height="99.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_1147)">
+		<path id="Vector" d="M100 50C100 77.61 77.61 100 50 100C22.38 100 0 77.61 0 50C0 22.38 22.38 0 50 0C77.61 0 100 22.38 100 50Z" fill="#338AF3" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M78.26 50.54L21.73 50.54C21.73 54.44 25.13 57.6 29.03 57.6L28.8 57.6C28.8 61.51 31.96 64.67 35.86 64.67C35.86 68.57 39.03 71.73 42.93 71.73L57.06 71.73C60.96 71.73 64.13 68.57 64.13 64.67C68.03 64.67 71.19 61.51 71.19 57.6L70.96 57.6C74.86 57.6 78.26 54.44 78.26 50.54Z" fill="#FFDA44" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M69.56 41.3C69.56 52.1 60.8 60.86 50 60.86C39.19 60.86 30.43 52.1 30.43 41.3L69.56 41.3Z" fill="#338AF3" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M64.94 41.3L58.83 44.17L62.08 50.09L55.45 48.82L54.61 55.52L50 50.59L45.38 55.52L44.54 48.82L37.91 50.09L41.16 44.17L35.05 41.3L41.16 38.43L37.91 32.51L44.54 33.78L45.38 27.08L50 32.01L54.61 27.08L55.45 33.78L62.08 32.51L58.83 38.43L64.94 41.3Z" fill="#FFDA44" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

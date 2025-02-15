@@ -1,0 +1,34 @@
+<svg width="100.000000" height="100.000000" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_731">
+			<rect id="State=south korea" rx="0.000000" width="99.000000" height="99.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="State=south korea" rx="0.000000" width="99.000000" height="99.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_731)">
+		<path id="Vector" d="M100 50C100 77.61 77.61 100 50 100C22.38 100 0 77.61 0 50C0 22.38 22.38 0 50 0C77.61 0 100 22.38 100 50Z" fill="#F0F0F0" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M67.39 50C67.39 54.34 59.6 65.21 50 65.21C40.39 65.21 32.6 54.34 32.6 50C32.6 40.39 40.39 32.6 50 32.6C59.6 32.6 67.39 40.39 67.39 50Z" fill="#D80027" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M67.39 50C67.39 59.6 59.6 67.39 50 67.39C40.39 67.39 32.6 59.6 32.6 50L67.39 50Z" fill="#0052B4" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M68.43 65.37L73.04 60.76L76.11 63.83L71.5 68.44L68.43 65.37Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M60.74 73.05L65.35 68.44L68.43 71.52L63.81 76.13L60.74 73.05Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M77.65 74.59L82.26 69.98L85.33 73.05L80.72 77.66L77.65 74.59Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M69.96 82.28L74.57 77.66L77.65 80.74L73.04 85.35L69.96 82.28Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M73.04 69.98L77.65 65.37L80.72 68.44L76.11 73.05L73.04 69.98Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M65.35 77.66L69.96 73.05L73.04 76.13L68.43 80.74L65.35 77.66Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M77.67 34.63L65.37 22.34L68.45 19.26L80.74 31.56L77.67 34.63Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M65.37 31.56L60.76 26.95L63.84 23.87L68.45 28.48L65.37 31.56Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M73.06 39.24L68.45 34.63L71.52 31.56L76.13 36.17L73.06 39.24Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M74.59 22.33L69.98 17.72L73.06 14.65L77.67 19.26L74.59 22.33Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M82.28 30.02L77.67 25.41L80.75 22.34L85.36 26.95L82.28 30.02Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M17.72 69.97L30.02 82.27L26.94 85.34L14.65 73.04L17.72 69.97Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M30.02 73.04L34.63 77.65L31.55 80.73L26.94 76.12L30.02 73.04Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M22.33 65.36L26.94 69.97L23.87 73.04L19.26 68.43L22.33 65.36Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M26.94 60.75L39.24 73.04L36.16 76.12L23.87 63.82L26.94 60.75Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M30.01 17.71L17.72 30.01L14.64 26.94L26.94 14.64L30.01 17.71Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M34.63 22.32L22.33 34.62L19.26 31.55L31.55 19.25L34.63 22.32Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M39.24 26.94L26.95 39.23L23.87 36.16L36.17 23.86L39.24 26.94Z" fill="#111111" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

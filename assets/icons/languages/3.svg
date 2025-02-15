@@ -1,0 +1,27 @@
+<svg width="100.000000" height="100.000000" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_1126">
+			<rect id="State=united kingdom" rx="0.000000" width="99.000000" height="99.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="State=united kingdom" rx="0.000000" width="99.000000" height="99.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_1126)">
+		<path id="Vector" d="M100 50C100 77.61 77.61 100 50 100C22.38 100 0 77.61 0 50C0 22.38 22.38 0 50 0C77.61 0 100 22.38 100 50Z" fill="#F0F0F0" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M10.33 19.55C6.4 24.66 3.44 30.55 1.72 36.95L27.73 36.95L10.33 19.55Z" fill="#0052B4" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M98.27 36.95C96.55 30.55 93.59 24.66 89.66 19.55L72.26 36.95L98.27 36.95Z" fill="#0052B4" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M1.72 63.04C3.44 69.44 6.4 75.33 10.33 80.44L27.73 63.04L1.72 63.04Z" fill="#0052B4" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M80.44 10.33C75.33 6.4 69.44 3.44 63.04 1.72L63.04 27.73L80.44 10.33Z" fill="#0052B4" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M19.55 89.66C24.66 93.59 30.55 96.55 36.95 98.27L36.95 72.26L19.55 89.66Z" fill="#0052B4" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M36.95 1.72C30.55 3.44 24.66 6.4 19.55 10.33L36.95 27.73L36.95 1.72Z" fill="#0052B4" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M63.04 98.27C69.44 96.55 75.33 93.59 80.44 89.66L63.04 72.26L63.04 98.27Z" fill="#0052B4" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M72.26 63.04L89.66 80.44C93.59 75.33 96.55 69.44 98.27 63.04L72.26 63.04Z" fill="#0052B4" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M99.57 43.47L56.52 43.47L56.52 43.47L56.52 0.42C54.38 0.14 52.21 0 50 0C47.78 0 45.61 0.14 43.47 0.42L43.47 43.47L43.47 43.47L0.42 43.47C0.14 45.61 0 47.78 0 50C0 52.21 0.14 54.38 0.42 56.52L43.47 56.52L43.47 56.52L43.47 99.57C45.61 99.85 47.78 100 50 100C52.21 100 54.38 99.85 56.52 99.57L56.52 56.52L56.52 56.52L99.57 56.52C99.85 54.38 100 52.21 100 50C100 47.78 99.85 45.61 99.57 43.47Z" fill="#D80027" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M63.04 63.04L85.35 85.35C86.38 84.32 87.36 83.25 88.29 82.14L69.19 63.04L63.04 63.04L63.04 63.04Z" fill="#D80027" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M36.95 63.04L36.95 63.04L14.64 85.35C15.67 86.38 16.74 87.36 17.85 88.29L36.95 69.19L36.95 63.04Z" fill="#D80027" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M36.95 36.95L36.95 36.95L14.64 14.64C13.61 15.67 12.63 16.74 11.7 17.85L30.8 36.95L36.95 36.95L36.95 36.95Z" fill="#D80027" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M63.04 36.95L85.35 14.64C84.32 13.61 83.25 12.63 82.14 11.7L63.04 30.8L63.04 36.95Z" fill="#D80027" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

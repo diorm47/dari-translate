@@ -1,0 +1,20 @@
+<svg width="100.000000" height="100.000000" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_764">
+			<rect id="State=kyrgyzstan" rx="0.000000" width="99.000000" height="99.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="State=kyrgyzstan" rx="0.000000" width="99.000000" height="99.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_764)">
+		<path id="Vector" d="M100 50C100 77.61 77.61 100 50 100C22.38 100 0 77.61 0 50C0 22.38 22.38 0 50 0C77.61 0 100 22.38 100 50Z" fill="#D80027" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M74.45 50L64.46 54.69L69.78 64.37L58.93 62.3L57.55 73.26L49.99 65.2L42.44 73.26L41.06 62.3L30.21 64.37L35.53 54.69L25.54 50L35.53 45.3L30.21 35.62L41.06 37.69L42.44 26.73L49.99 34.79L57.55 26.73L58.93 37.69L69.78 35.62L64.46 45.3L74.45 50Z" fill="#FFDA44" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M65.21 50C65.21 58.4 58.4 65.21 50 65.21C41.59 65.21 34.78 58.4 34.78 50C34.78 41.59 41.59 34.78 50 34.78C58.4 34.78 65.21 41.59 65.21 50Z" fill="#D80027" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M42.39 50C42.02 50 41.66 50.01 41.3 50.05C41.31 52.16 42.08 54.09 43.34 55.58C44.01 53.78 45.01 52.13 46.28 50.72C45.07 50.25 43.76 50 42.39 50Z" fill="#FFDA44" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M47.07 58.18C47.98 58.51 48.97 58.69 50 58.69C51.02 58.69 52.01 58.51 52.92 58.18C52.42 56.23 51.39 54.48 50 53.11C48.6 54.48 47.57 56.23 47.07 58.18Z" fill="#FFDA44" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M57.53 45.65C56.02 43.05 53.21 41.3 50 41.3C46.78 41.3 43.97 43.05 42.46 45.65C45.21 45.66 47.78 46.41 50 47.69C52.21 46.41 54.78 45.66 57.53 45.65Z" fill="#FFDA44" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M53.71 50.72C54.98 52.13 55.98 53.78 56.65 55.58C57.91 54.09 58.68 52.16 58.69 50.05C58.33 50.01 57.97 50 57.6 50C56.23 50 54.92 50.25 53.71 50.72Z" fill="#FFDA44" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

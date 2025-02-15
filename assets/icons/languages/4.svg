@@ -1,0 +1,19 @@
+<svg width="100.000000" height="100.000000" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_1106">
+			<rect id="State=china" rx="0.000000" width="99.000000" height="99.000000" transform="translate(0.500000 0.500000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<rect id="State=china" rx="0.000000" width="99.000000" height="99.000000" transform="translate(0.500000 0.500000)" fill="#FFFFFF" fill-opacity="0"/>
+	<g clip-path="url(#clip2_1106)">
+		<path id="Vector" d="M100 50C100 77.61 77.61 100 50 100C22.38 100 0 77.61 0 50C0 22.38 22.38 0 50 0C77.61 0 100 22.38 100 50Z" fill="#D80027" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<path id="Vector" d="M27.36 30.42L31.67 43.71L45.64 43.71L34.35 51.93L38.67 65.21L27.36 57.01L16.05 65.21L20.39 51.93L9.08 43.71L23.04 43.71L27.36 30.42Z" fill="#FFDA44" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M59.27 77.44L55.97 73.37L51.09 75.27L53.92 70.87L50.62 66.79L55.68 68.14L58.53 63.75L58.8 68.98L63.88 70.33L58.98 72.2L59.27 77.44Z" fill="#FFDA44" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M65.83 65.52L67.4 60.52L63.12 57.5L68.35 57.42L69.9 52.42L71.6 57.38L76.83 57.32L72.63 60.44L74.31 65.41L70.03 62.38L65.83 65.52Z" fill="#FFDA44" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M74.68 36.69L72.38 41.4L76.13 45.05L70.95 44.31L68.65 49L67.75 43.84L62.55 43.1L67.2 40.66L66.3 35.48L70.05 39.14L74.68 36.69Z" fill="#FFDA44" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M59.41 22.44L59.02 27.65L63.88 29.62L58.78 30.87L58.41 36.11L55.66 31.66L50.56 32.91L53.94 28.9L51.17 24.47L56.03 26.44L59.41 22.44Z" fill="#FFDA44" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
